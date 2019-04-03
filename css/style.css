@@ -1,3 +1,4 @@
+/*--Tasnimul Islam Shadi--*/
 /*all padding margin 0px*/
 * {
 	padding: 0px;
@@ -81,6 +82,8 @@ header {
 
 /*--^--Header--^--*/
 
+/*--Tasnimul Islam Shadi--*/
+
 /*-----Section 1-----*/
 
 .cover{
@@ -122,6 +125,8 @@ header {
 }
 
 /*--^--Section 1--^--*/
+
+/*--Tasnimul Islam Shadi--*/
 
 /*-----Section 2-----*/
 
@@ -246,6 +251,8 @@ header {
 
 /*--^--Section 2--^--*/
 
+/*--Tasnimul Islam Shadi--*/
+
 /*-----Section 3-----*/
 
 .section-three {
@@ -339,6 +346,8 @@ header {
 
 /*--^--Section 3--^--*/
 
+/*--Tasnimul Islam Shadi--*/
+
 /*-----Footer-----*/
 
 footer {
@@ -375,3 +384,5 @@ button {
 button:hover {
     background-color: black;
 }
+
+/*--Tasnimul Islam Shadi--*/
