@@ -362,3 +362,16 @@ footer {
 }
 
 /*--^--Footer--^--*/
+
+
+/*--Hover Effects--*/
+/*--Buttons--*/
+button {
+    -webkit-transition: 0.7s ease;
+    -moz-transition: 0.7s ease;
+    -o-transition: 0.7s ease;
+}
+
+button:hover {
+    background-color: black;
+}
